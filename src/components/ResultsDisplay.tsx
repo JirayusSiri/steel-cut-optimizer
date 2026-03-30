@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { CutResult } from '../utils/cuttingAlgorithm'
 
 interface ResultsProps {

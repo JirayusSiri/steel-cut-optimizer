@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState } from 'react'
 import ConfigurationPanel from './components/ConfigurationPanel'
 import InputDataGrid from './components/InputDataGrid'
 import ResultsDisplay from './components/ResultsDisplay'
